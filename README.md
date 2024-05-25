@@ -18,7 +18,7 @@ Ebook sobre Inteligencia Artificial
 IA Generativa Gamma IA.
 
 ## 🧐 Processo de Criação
-Utilizei o "[Gamma IA](https://gamma.app)" para gera um ebook com conteuso sobre Inteligencia artificial
+Utilizei o (https://gamma.app) para gera um ebook com conteuso sobre Inteligencia artificial
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo relevantes sobre IA e suas principais caracteristicas e tecnologias.
