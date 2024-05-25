@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Suhellyn aqui! Inspirada na hype "Natty or Not" do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,28 +23,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook sobre Inteligencia Artificial
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização;
-IA Generativa Leonardo AI para criar a arte visual do e-book;
-Ferramenta Livre Office para edição.
+IA Generativa Gamma IA.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "[Gamma IA](https://gamma.app)" para gera um ebook com conteuso sobre Inteligencia artificial
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo relevantes sobre IA e suas principais caracteristicas e tecnologias.
 
 ## 💭 Reflexão (Opcional)
-Criar este e-book foi uma experiência revelada sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book foi uma experiência incrivel onde eu pude levar minha ideia, e gerar instantaneamnte com conteúdo relevante em segundos.
 ```
 
 ### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Link do meu ebook gerado por IA  >>  https://gamma.app/docs/Introducao-a-Inteligencia-Artificial-lcxwdazi4ljjaf0
 
 ## Links Interessantes
 
