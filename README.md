@@ -10,7 +10,7 @@ Olá pessoal, Suhellyn aqui!
 Ebook sobre Inteligencia Artificial
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa Gamma IA.
+IA Generativa Gamma.
 
 ## 🧐 Processo de Criação
 Utilizei o (https://gamma.app) para gera um ebook com conteuso sobre Inteligencia artificial
